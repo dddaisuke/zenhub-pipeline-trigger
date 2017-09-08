@@ -1,0 +1,2 @@
+# zenhub-pipeline-trigger
+zenhub.ioで指定されたpipelineが変更された時にGoogle Tasksに追加しつつ、HipChatに通知を出す
